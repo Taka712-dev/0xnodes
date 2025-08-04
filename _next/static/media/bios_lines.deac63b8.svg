@@ -1,0 +1,31 @@
+<svg width="173" height="88" viewBox="0 0 173 88" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.5">
+<mask id="mask0_540_15477" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="-39" width="173" height="173">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M162 47.5C162 89.1975 128.197 123 86.5 123C44.8025 123 11 89.1975 11 47.5C11 5.8025 44.8025 -28 86.5 -28C128.197 -28 162 5.8025 162 47.5ZM173 47.5C173 95.2726 134.273 134 86.5 134C38.7274 134 0 95.2726 0 47.5C0 -0.272633 38.7274 -39 86.5 -39C134.273 -39 173 -0.272633 173 47.5ZM34.6 45.7036L57.5552 25.2571H68.092V29.3966L47.4574 47.7733V48.7141L68.092 67.5298V71.3556H57.6806L34.6 50.9092V45.7036ZM104.908 29.3966V25.2571H115.382L138.4 45.7036V50.9092L115.319 71.3556H104.908V67.5298L125.48 48.7141V47.7733L104.908 29.3966ZM90.1057 25.2571L72.3562 71.3556H83.2066L100.705 25.2571H90.1057Z" fill="#00FF8B"/>
+</mask>
+<g mask="url(#mask0_540_15477)">
+<rect y="1" width="331.456" height="1" fill="#212121"/>
+<rect y="5" width="331.456" height="1" fill="#212121"/>
+<rect y="9" width="331.456" height="1" fill="#212121"/>
+<rect y="13" width="331.456" height="1" fill="#212121"/>
+<rect y="17" width="331.456" height="1" fill="#212121"/>
+<rect y="21" width="331.456" height="1" fill="#212121"/>
+<rect y="25" width="331.456" height="1" fill="#212121"/>
+<rect y="29" width="331.456" height="1" fill="#212121"/>
+<rect y="33" width="331.456" height="1" fill="#212121"/>
+<rect y="37" width="331.456" height="1" fill="#212121"/>
+<rect y="41" width="331.456" height="1" fill="#212121"/>
+<rect y="45" width="331.456" height="1" fill="#212121"/>
+<rect y="49" width="331.456" height="1" fill="#212121"/>
+<rect y="53" width="331.456" height="1" fill="#212121"/>
+<rect y="57" width="331.456" height="1" fill="#212121"/>
+<rect y="61" width="331.456" height="1" fill="#212121"/>
+<rect y="65" width="331.456" height="1" fill="#212121"/>
+<rect y="69" width="331.456" height="1" fill="#212121"/>
+<rect y="73" width="331.456" height="1" fill="#212121"/>
+<rect y="77" width="331.456" height="1" fill="#212121"/>
+<rect y="81" width="331.456" height="1" fill="#212121"/>
+<rect y="85" width="331.456" height="1" fill="#212121"/>
+</g>
+</g>
+</svg>
