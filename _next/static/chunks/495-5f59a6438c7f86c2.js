@@ -1974,12 +1974,12 @@
           },
           twitter: {
             label: "Twitter",
-            href: "https://x.com/0xNodeAI",
+            href: "https://x.com/0xnode_ai",
             target: "_blank",
           },
           telegram: {
             label: "Telegram",
-            href: "https://t.me/chat_0xnode",
+            href: "https://t.me/the0xnodeportal",
             target: "_blank",
           },
         },
