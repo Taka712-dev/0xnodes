@@ -2452,7 +2452,7 @@
                 " Sushiswap",
               ],
             }),
-            href: "https://app.sushi.com/swap?outputCurrency=0xcomingsoon",
+            href: "https://app.uniswap.org/#/swap?inputCurrency=0xdac17f958d2ee523a2206206994597c13d831ec7&outputCurrency=0xcomingsoon&chain=mainnet",
           },
           uniswap: {
             name: "Uniswap",
