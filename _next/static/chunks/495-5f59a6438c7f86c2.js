@@ -1732,7 +1732,7 @@
         w = n(5632),
         A = function () {
           return (0, a.jsx)("a", {
-            href: "https://system11.0xnode-ai.pro",
+            href: "https://system11.0xnodes.pro",
             target: "_blank",
             children: (0, a.jsx)(p.Z, {
               color: "green",
@@ -1956,7 +1956,7 @@
         P = {
           gitbook: {
             label: "Gitbook",
-            href: "https://docs.0xnode-ai.pro",
+            href: "https://gitbook.0xnodes.pro",
             target: "_blank",
           },
           
@@ -2121,7 +2121,7 @@
                         }),
                       }),
                       (0, a.jsx)("a", {
-                        href: "https://system11.0xnode-ai.pro",
+                        href: "https://system11.0xnodes.pro",
                         target: "_blank",
                         children: (0, a.jsx)(p.Z, {
                           secondary: !0,
@@ -2332,7 +2332,7 @@
                           children: [
                             (0, a.jsx)(m, { fill: "#00ff8b", width: 120 }),
                             (0, a.jsx)("a", {
-                              href: "https://system11.0xnode-ai.pro",
+                              href: "https://system11.0xnodes.pro",
                               target: "_blank",
                               children: (0, a.jsx)(p.Z, {
                                 color: "green",
