@@ -307,7 +307,7 @@
           className: "mx-auto my-20",
           style: { margin: "32px auto" },
           children: (0, r.jsx)("a", {
-            href: "https://system11.0xnodes.pro",
+            href: "https://system11.0xnode.pro",
             target: "_blank",
             children: (0, r.jsx)(a.Z, {
               onClick: function () {
