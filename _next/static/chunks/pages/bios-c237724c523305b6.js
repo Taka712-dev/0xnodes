@@ -367,7 +367,7 @@
       }
       var O = {
           ethereum: {
-            address: "0xcomingsoon",
+            address: "0x144f8fe2a2943105ab8add17b482f80e2f38b06c",
             scanLink: {
               img: {
                 src: "/_next/static/media/etherscan.8006d1de.svg",
@@ -375,7 +375,7 @@
                 width: 24,
               },
               label: "ETHERSCAN",
-              href: "https://etherscan.io/token/0xcomingsoon",
+              href: "https://etherscan.io/token/0x144f8fe2a2943105ab8add17b482f80e2f38b06c",
             },
           },
         //   polygon: {

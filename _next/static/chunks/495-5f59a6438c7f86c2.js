@@ -1180,7 +1180,7 @@
           ge("binancecoin"),
           ge("metis-token"),
           ge("metis-token"),
-          "0xcomingsoon"),
+          "0x144f8fe2a2943105ab8add17b482f80e2f38b06c"),
         Ae = "0xe9a889e6963f122a98f8083d951c71329c726c0a",
         Te = (function () {
           var e = ve(
@@ -1969,7 +1969,7 @@
         R = {
           dextools: {
             label: "Dextools",
-            href: "https://www.dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x144f8fe2a2943105ab8add17b482f80e2f38b06c",
             target: "_blank",
           },
           twitter: {
@@ -2112,7 +2112,7 @@
                         ],
                       }),
                       (0, a.jsx)("a", {
-                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon&chain=mainnet",
+                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x144f8fe2a2943105ab8add17b482f80e2f38b06c&chain=mainnet",
                         target: "_blank",
                         children: (0, a.jsx)(p.Z, {
                           secondary: !0,
@@ -2452,7 +2452,7 @@
                 " Sushiswap",
               ],
             }),
-            href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0xcomingsoon",
+            href: "https://app.uniswap.org/swap?chain=mainnet&inputCurrency=NATIVE&outputCurrency=0x144f8fe2a2943105ab8add17b482f80e2f38b06c",
           },
           uniswap: {
             name: "Uniswap",
@@ -2463,7 +2463,7 @@
                 " Uniswap",
               ],
             }),
-            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon&chain=mainnet",
+            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x144f8fe2a2943105ab8add17b482f80e2f38b06c&chain=mainnet",
           },
           quickswap: {
             name: "Quickswap",
@@ -5497,7 +5497,7 @@
         y = n(21108),
         m = n(59795);
       var b = {
-          BIOS: "0xcomingsoon",
+          BIOS: "0x144f8fe2a2943105ab8add17b482f80e2f38b06c",
           BIOSSLP: "0xE9a889E6963f122a98f8083d951c71329c726c0A",
           BUSD: "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
           bXIOT: "0x5c4ac68aAc56eBe098D621Cd8CE9F43270Aaa355",

@@ -294,7 +294,7 @@
                 className: "flex flex-col items-center w-full",
                 style: { margin: "0px auto", maxWidth: 800 },
                 children: [
-                    (0, r.jsx)(l.lT, { className: "text-4xl my-8", children: "0xcomingsoon" })
+                    (0, r.jsx)(l.lT, { className: "text-4xl my-8", children: "0x144f8fe2a2943105ab8add17b482f80e2f38b06c" })
                 ]
               })
             ],
