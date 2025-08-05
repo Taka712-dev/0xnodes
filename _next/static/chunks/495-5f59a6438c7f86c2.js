@@ -1958,13 +1958,7 @@
             label: "Gitbook",
             href: "https://gitbook.0xnode.pro",
             target: "_blank",
-          },
-          
-          blog: {
-            href: "https://medium.com/@0xnodeai",
-            target: "_blank",
-            label: "Blog",
-          },
+          }
         },
         R = {
           dextools: {
